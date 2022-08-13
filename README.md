@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Web Developer, Data Extraction Expert & Technical Speaker.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/@swapbuilds" target="blank"><img src="https://img.shields.io/twitter/follow/@swapbuilds?logo=twitter&style=for-the-badge" alt="@swapbuilds" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SwapBuilds" target="blank"><img src="https://img.shields.io/twitter/follow/SwapBuilds?logo=twitter&style=for-the-badge" alt="@swapbuilds" /></a> </p>
 
 - 🔭 I’m currently working on **Planets Web App**
 
