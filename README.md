@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/SwapBuilds" target="blank"><img src="https://img.shields.io/twitter/follow/SwapBuilds?logo=twitter&style=for-the-badge" alt="@swapbuilds" /></a> </p>
 
-- 🔭 I’m currently working on **Planets Web App**
+- 🔭 I’m currently working on **Tromodoro Web App**
 
-- 💬 Ask me about **React, Javascript, CSS, SCSS, Python, Web Scraping.**
+- 💬 Ask me about **React, Javascript, AWS Serverless, CSS, SCSS, Python, Web Scraping.**
 
 - 📫 How to reach me **swapnilmane141@gmail.com**
 
