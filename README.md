@@ -1,4 +1,3 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGe9pzpdNfAZA/profile-displaybackgroundimage-shrink_350_1400/0/1659077803636?e=1665619200&v=beta&t=H0azSYo2XqJB39QIvugChcrNO4VYBIfUly6OQxvDdXA)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Swapnil Mane</h1>
 <h3 align="center">Frontend Web Developer, Data Extraction Expert & Technical Speaker.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
