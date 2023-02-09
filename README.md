@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Javascript, AWS Serverless, CSS, SCSS, Python, Web Scraping.**
 
-- 📫 How to reach me **swapnilmane141@gmail.com**
+- 📫 How to reach me **contact@swapnilmane.com**
 
 - ⚡ Fun fact **I am an Ambivert. So I would occasionally like to Party too.😛**
 
